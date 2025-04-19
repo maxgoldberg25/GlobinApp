@@ -4,11 +4,69 @@ A social platform for travelers to share their photos and experiences from aroun
 
 🚀 **[Live Demo](https://globe-trotter-sable.vercel.app/)**
 
-<img width="1272" alt="Screenshot 2025-04-18 at 8 14 49 PM" src="https://github.com/user-attachments/assets/50bf656d-7d32-47fc-a379-a2c545d83b95" />
-<img width="1337" alt="Screenshot 2025-04-18 at 8 15 00 PM" src="https://github.com/user-attachments/assets/99dd75cf-015d-4053-9a31-6cdf8eb48f73" />
-<img width="1290" alt="Screenshot 2025-04-18 at 8 15 17 PM" src="https://github.com/user-attachments/assets/be51452a-dbd0-405b-9465-7ac502ea5589" />
-<img width="1307" alt="Screenshot 2025-04-18 at 8 15 26 PM" src="https://github.com/user-attachments/assets/b8630469-c0cb-482f-b5b3-dab113c2dd20" />
-<img width="1333" alt="Screenshot 2025-04-18 at 8 15 49 PM" src="https://github.com/user-attachments/assets/aef669d5-fd2d-4913-9b7a-870d564cbc34" />
+## 🎯 Core Features
+
+### 👤 User Dashboard
+
+- User profile overview with stats  
+- Quick action buttons  
+- Navigation cards for key features  
+- Stats display (Photos, Followers, Following)
+
+<div align="">
+  <img src="https://github.com/user-attachments/assets/50bf656d-7d32-47fc-a379-a2c545d83b95" width="600" />
+</div>
+
+---
+
+### 📸 Photo Management
+
+- Photo upload interface  
+- Location input field  
+- Interactive map for location selection  
+- Search functionality  
+- Preview panel  
+- Back to dashboard navigation
+
+<div align="">
+  <img src="https://github.com/user-attachments/assets/99dd75cf-015d-4053-9a31-6cdf8eb48f73" width="600" />
+</div>
+
+---
+
+### 🌍 Map Interface
+
+- Interactive world map view  
+- Color-coded location pins  
+  - Blue: User's photos  
+  - Green: Community photos  
+- Zoom and pan controls  
+- Location markers across Europe and Asia  
+- Clear pin clustering
+
+<div align="">
+  <img src="https://github.com/user-attachments/assets/be51452a-dbd0-405b-9465-7ac502ea5589" width="600" />
+</div>
+
+---
+
+### 🤝 Social Features
+
+- User discovery interface  
+- Search functionality  
+- Suggested users section  
+- User cards with:  
+  - Profile pictures  
+  - Bio/description  
+  - Photo count  
+  - Follow button  
+  - Engagement stats
+
+<div align="">
+  <img src="https://github.com/user-attachments/assets/b8630469-c0cb-482f-b5b3-dab113c2dd20" width="600" />
+</div>
+
+---
 
 
 ## 🌟 Features
