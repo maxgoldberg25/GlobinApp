@@ -94,4 +94,4 @@ GlobeTrotter is fully responsive and optimized for mobile devices, offering:
 
 ---
 
-© 2024 GlobeTrotter. All rights reserved. 
+© 2025 GlobeTrotter. All rights reserved. 
