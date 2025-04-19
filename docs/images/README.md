@@ -1,30 +1,111 @@
 # Interface Screenshots
 
-This directory contains screenshots of the GlobeTrotter interface demonstrating various features and components.
+This directory contains screenshots showcasing the key features and interfaces of GlobeTrotter.
 
-## Screenshot Index
+## Core Features
 
-1. `profile-dashboard.png` - User profile dashboard showing stats and quick actions
-2. `photo-upload.png` - Photo upload interface with map selection
-3. `world-map.png` - Interactive world map with photo location pins
-4. `user-discovery.png` - User discovery page with suggested users
-5. `leaderboard.png` - Top photos leaderboard with rankings
+### User Dashboard (`profile-dashboard.png`)
+- User profile overview with stats
+- Quick action buttons
+- Navigation cards for key features
+- Stats display (Photos, Followers, Following)
 
-Note: These screenshots are periodically updated to reflect the latest interface changes and improvements.
+### Photo Management (`photo-upload.png`)
+- Photo upload interface
+- Location input field
+- Interactive map for location selection
+- Search functionality
+- Preview panel
+- Back to dashboard navigation
+
+### Map Interface (`world-map.png`)
+- Interactive world map view
+- Color-coded location pins
+  - Blue: User's photos
+  - Green: Community photos
+- Zoom and pan controls
+- Location markers across Europe and Asia
+- Clear pin clustering
+
+### Social Features (`user-discovery.png`)
+- User discovery interface
+- Search functionality
+- Suggested users section
+- User cards with:
+  - Profile pictures
+  - Bio/description
+  - Photo count
+  - Follow button
+  - Engagement stats
+
+### Achievement System (`leaderboard.png`)
+- Top photos leaderboard
+- Country filter dropdown
+- Photo ranking cards
+- Engagement metrics
+- Location details
+- Photographer attribution
+
+## Image Specifications
+
+### Technical Details
+- Format: PNG
+- Resolution: 800px max dimension
+- Color Mode: RGB
+- Optimization: Compressed for web
+- Dark Mode: All screenshots in dark theme
+
+### Naming Convention
+- Descriptive kebab-case names
+- No spaces or special characters
+- Clear feature identification
+- Example: `feature-name.png`
+
+### Organization
+```
+docs/images/
+├── profile-dashboard.png
+├── photo-upload.png
+├── world-map.png
+├── user-discovery.png
+└── leaderboard.png
+```
 
 ## Usage Guidelines
 
-- Screenshots are used for documentation purposes only
-- All user data in screenshots is from test accounts
-- Screenshots are optimized for web viewing
-- Filenames follow the kebab-case naming convention
-- Resolution maintained at 2x for retina displays
+### Documentation
+- Used in main README.md
+- Referenced in feature documentation
+- Embedded in user guides
+- Included in API documentation
 
-## Updating Screenshots
+### Maintenance
+- Update screenshots when UI changes
+- Maintain consistent styling
+- Preserve dark mode theme
+- Keep file sizes optimized
+- Remove outdated screenshots
 
-When updating interface screenshots:
-1. Use dark mode theme
-2. Capture at standard 1920x1080 resolution
-3. Ensure no sensitive information is visible
-4. Optimize file size before committing
-5. Update this README if new screenshot categories are added 
+### Quality Standards
+- Clear and focused content
+- No personal/sensitive data
+- Consistent window size
+- Professional presentation
+- High-quality compression
+
+## Contributing
+
+When adding new screenshots:
+1. Follow naming convention
+2. Optimize for web (compress)
+3. Use dark mode theme
+4. Remove sensitive data
+5. Update this README
+6. Test image links
+
+## Version Control
+
+- Screenshots are tracked in Git LFS
+- Optimized for repository size
+- Regular updates with releases
+- Archive outdated versions 
