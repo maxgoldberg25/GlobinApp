@@ -4,7 +4,12 @@ A social platform for travelers to share their photos and experiences from aroun
 
 🚀 **[Live Demo](https://globe-trotter-sable.vercel.app/)**
 
-![GlobeTrotter Map Interface](docs/images/map-interface.png)
+<img width="1272" alt="Screenshot 2025-04-18 at 8 14 49 PM" src="https://github.com/user-attachments/assets/50bf656d-7d32-47fc-a379-a2c545d83b95" />
+<img width="1337" alt="Screenshot 2025-04-18 at 8 15 00 PM" src="https://github.com/user-attachments/assets/99dd75cf-015d-4053-9a31-6cdf8eb48f73" />
+<img width="1290" alt="Screenshot 2025-04-18 at 8 15 17 PM" src="https://github.com/user-attachments/assets/be51452a-dbd0-405b-9465-7ac502ea5589" />
+<img width="1307" alt="Screenshot 2025-04-18 at 8 15 26 PM" src="https://github.com/user-attachments/assets/b8630469-c0cb-482f-b5b3-dab113c2dd20" />
+<img width="1333" alt="Screenshot 2025-04-18 at 8 15 49 PM" src="https://github.com/user-attachments/assets/aef669d5-fd2d-4913-9b7a-870d564cbc34" />
+
 
 ## 🌟 Features
 
