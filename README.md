@@ -82,6 +82,10 @@ A social platform for travelers to share their photos and experiences from aroun
   - AI-powered location detection
   - Manual map selection
 - **🤝 Social Features**: Follow other travelers and interact with their content
+- **🗂️ Trips Page**:  
+  - Manage trips in a responsive grid layout  
+  - Create trips using AI suggestions or manual planning  
+  - View, edit, and customize itineraries
 
 ## 🛠️ Technology Stack
 
@@ -157,4 +161,4 @@ GlobeTrotter is fully responsive and optimized for mobile devices, offering:
 
 ---
 
-© 2025 GlobeTrotter. All rights reserved. 
+© 2025 GlobeTrotter. All rights reserved.
