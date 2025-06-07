@@ -1,4 +1,4 @@
-# GlobeTrotter 🌎
+# Globin
 
 A social platform for travelers to share their photos and experiences from around the world. Users can upload photos with location data, view them on an interactive map, and connect with other travelers.
 
